@@ -12,7 +12,8 @@ on "unpack" {
   }
 }
 
-version "0.41.0" "0.41.1" "0.42.0" "0.43.0" "0.43.1" "0.43.2" "0.44.0" "0.45.0" {
+version "0.41.0" "0.41.1" "0.42.0" "0.43.0" "0.43.1" "0.43.2" "0.44.0" "0.45.0"
+        "0.45.2" {
   auto-version {
     github-release = "carvel-dev/vendir"
   }
@@ -51,4 +52,8 @@ sha256sums = {
   "https://github.com/carvel-dev/vendir/releases/download/v0.45.0/vendir-linux-arm64": "f2b517cfa1a843ffc7b9beb37146ffd8157a5c842138c4f6a5728f708115dbfd",
   "https://github.com/carvel-dev/vendir/releases/download/v0.45.0/vendir-darwin-arm64": "6ff67773916bf1587533daf912a24d0fc5c5914e90aa6cd9099b22a480cd0a53",
   "https://github.com/carvel-dev/vendir/releases/download/v0.45.0/vendir-linux-amd64": "d60ad65bbd0658d377f2dcf57b3119f16c5a3a7eeaf80019a3d243a620404d7e",
+  "https://github.com/carvel-dev/vendir/releases/download/v0.45.2/vendir-darwin-arm64": "01b3e5b922e8771cbc0bdb4c75acb3933327f7a63779bb8923f05de18b49fab6",
+  "https://github.com/carvel-dev/vendir/releases/download/v0.45.2/vendir-linux-amd64": "ecd053b031fdebfe0486b263a7071320b033f60b6d9e6c6b74ad681f2d7068b5",
+  "https://github.com/carvel-dev/vendir/releases/download/v0.45.2/vendir-darwin-amd64": "c75abeca04cb9b0fabcb084b87fb465b3eb462a85bab1baab4853bf9a4c7ccc3",
+  "https://github.com/carvel-dev/vendir/releases/download/v0.45.2/vendir-linux-arm64": "8fc36145ca85712f1d6d6b959d6240a7d1d5f6a6dd3850bad9ae848c65e42c56",
 }
