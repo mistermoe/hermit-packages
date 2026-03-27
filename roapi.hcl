@@ -10,7 +10,7 @@ platform "linux" {
 }
 
 version "0.7.0" "0.7.1" "0.8.0" "0.8.1" "0.10.0" "0.11.1" "0.11.2" "0.11.3" "0.12.0"
-        "0.12.3" "0.12.4" "0.12.6" {
+        "0.12.3" "0.12.4" "0.12.6" "0.13.0" {
   auto-version {
     github-release = "roapi/roapi"
     version-pattern = "roapi-v(.*)"
@@ -53,4 +53,6 @@ sha256sums = {
   "https://github.com/roapi/roapi/releases/download/roapi-v0.12.6/roapi-aarch64-unknown-linux-musl.tar.gz": "fa4fbb15eac1fdc8863162e46b5b0dfc035badd7dca671299b196435069fe894",
   "https://github.com/roapi/roapi/releases/download/roapi-v0.12.6/roapi-apple-darwin.tar.gz": "449b789e32bf4769199ab45777cd25f0102e55bfba58fe87ea017e18ea0b747f",
   "https://github.com/roapi/roapi/releases/download/roapi-v0.12.6/roapi-x86_64-unknown-linux-musl.tar.gz": "7f38292cfd3b7025350e233667b0581ed6a727f5a9ac81d82f5a2ac818d7a302",
+  "https://github.com/roapi/roapi/releases/download/roapi-v0.13.0/roapi-apple-darwin.tar.gz": "a59c619e6ccdc7b97b46b642b64ba20086a21d0933698ae95c622827438fecef",
+  "https://github.com/roapi/roapi/releases/download/roapi-v0.13.0/roapi-x86_64-unknown-linux-musl.tar.gz": "f80982d7fd02e4b0a62c5c1648a989d06ef27d585689a7a3c8fa65262be8bbbe",
 }
