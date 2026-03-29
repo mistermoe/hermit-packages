@@ -18,7 +18,7 @@ version "1.4.0" "1.5.0" "1.6.0" "1.7.0" "1.8.0" "1.9.0" "1.10.1" "1.11.0" "1.13.
         "1.48.9" "1.48.10" "1.48.11" "1.48.12" "1.48.13" "1.49.0" "1.49.1" "1.49.3" "1.50.0"
         "1.50.1" "1.50.2" "1.50.4" "1.50.5" "1.50.6" "1.50.7" "1.51.4" "1.51.5" "1.51.8"
         "1.51.9" "1.51.10" "1.51.11" "1.52.1" "1.52.2" "1.52.3" "1.52.5" "1.53.0" "1.53.1"
-        "1.53.5" "1.53.7" "1.53.8" "1.54.0" "1.54.2" "1.56.0" {
+        "1.53.5" "1.53.7" "1.53.8" "1.54.0" "1.54.2" "1.56.0" "1.56.2" {
   auto-version {
     github-release = "encoredev/encore"
   }
@@ -445,4 +445,8 @@ sha256sums = {
   "https://d2f391esomvqpi.cloudfront.net/encore-1.56.0-darwin_amd64.tar.gz": "28ab437d2c594f3c00e3918fe0d577c9fbe248e0403a49f4d391eda5e2d858a2",
   "https://d2f391esomvqpi.cloudfront.net/encore-1.56.0-linux_amd64.tar.gz": "44f42901268b255f64613f4a418563f2b789469147765ff5d1685045ed2ba494",
   "https://d2f391esomvqpi.cloudfront.net/encore-1.56.0-darwin_arm64.tar.gz": "63c00330900b1d6311df11a04a18126f11b5fbffcea2cd318c3347eb484a2ec5",
+  "https://d2f391esomvqpi.cloudfront.net/encore-1.56.2-linux_amd64.tar.gz": "0f42b4b86e3d734b24df3f4d28bc04341e9c1162db7425c2b4e6446efcd0f9ca",
+  "https://d2f391esomvqpi.cloudfront.net/encore-1.56.2-darwin_amd64.tar.gz": "aa39b27b92f8ba571c63d76c0f0baf30ea7c62cb32eb8020aa0e41e0dcdb82c6",
+  "https://d2f391esomvqpi.cloudfront.net/encore-1.56.2-darwin_arm64.tar.gz": "9e3b836a9cae17223f0ed2970d4a6d907e2d5c214d0cc923a10adf1fa53654df",
+  "https://d2f391esomvqpi.cloudfront.net/encore-1.56.2-linux_arm64.tar.gz": "746a1fd36f027d7698df15076a2b5ed0684bd7cbd1eadc31a6260aea953ac7bc",
 }
