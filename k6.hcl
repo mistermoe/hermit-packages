@@ -14,7 +14,8 @@ platform "darwin" {
 version "0.40.0" "0.41.0" "0.42.0" "0.43.0" "0.43.1" "0.44.0" "0.44.1" "0.45.0"
         "0.45.1" "0.46.0" "0.47.0" "0.48.0" "0.49.0" "0.50.0" "0.51.0" "0.52.0" "0.53.0"
         "0.54.0" "0.55.0" "0.55.1" "0.55.2" "0.56.0" "0.57.0" "1.0.0-rc1" "0.58.0" "1.0.0-rc2"
-        "1.0.0" "1.1.0" "1.2.1" "1.2.2" "1.2.3" "1.3.0" "1.4.0" "1.4.1" "1.4.2" "1.5.0" "1.6.1" {
+        "1.0.0" "1.1.0" "1.2.1" "1.2.2" "1.2.3" "1.3.0" "1.4.0" "1.4.1" "1.4.2" "1.5.0" "1.6.1"
+        "1.7.1" {
   auto-version {
     github-release = "grafana/k6"
   }
@@ -169,4 +170,8 @@ sha256sums = {
   "https://github.com/grafana/k6/releases/download/v1.6.1/k6-v1.6.1-linux-arm64.tar.gz": "698e47804a8cf679237dc7f19813e2967e0a892d4b9387f6f6de46da259069f9",
   "https://github.com/grafana/k6/releases/download/v1.6.1/k6-v1.6.1-linux-amd64.tar.gz": "68df4958a1b089dc6f70a234e07c7ec818922f83b261ca24f3abf79882b13343",
   "https://github.com/grafana/k6/releases/download/v1.6.1/k6-v1.6.1-macos-arm64.zip": "104c4b8f3784d2e1899b4f0b9d9197538d9657d9eb9a9631638a58b72b2e9434",
+  "https://github.com/grafana/k6/releases/download/v1.7.1/k6-v1.7.1-macos-amd64.zip": "f6933670ddccb924d48815992e44e0ee1b040d814c5e5580b9bdebce71019c40",
+  "https://github.com/grafana/k6/releases/download/v1.7.1/k6-v1.7.1-linux-arm64.tar.gz": "5a91fa37d89d1fe776aea590d689029ffc2d2f2634a6c61eb51c982ff50700d7",
+  "https://github.com/grafana/k6/releases/download/v1.7.1/k6-v1.7.1-linux-amd64.tar.gz": "cc127a656f734f8ea1e89f8a417777905ae6a93d42f3e763e95313518180655b",
+  "https://github.com/grafana/k6/releases/download/v1.7.1/k6-v1.7.1-macos-arm64.zip": "9cace748ebeddb92432f606c6c53d964772176fdf1a0ebb4db5ead3df39ba761",
 }
