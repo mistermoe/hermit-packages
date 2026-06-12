@@ -8,7 +8,7 @@ version "0.33.1" "0.33.2" "0.34.0" "0.34.1" "0.35.0" "0.36.1" "0.36.2" "0.37.0"
         "0.42.1" "0.42.2" "0.43.0" "0.44.0" "0.44.1" "0.45.0" "0.46.0" "0.46.1" "0.47.0"
         "0.48.0" "0.49.0" "0.50.0" "0.50.1" "0.50.2" "0.50.3" "0.51.0" "0.51.1" "0.51.2"
         "0.52.0" "0.53.0" "0.54.0" "0.55.0" "0.55.1" "0.56.0" "0.57.0" "0.58.0" "0.58.1"
-        "0.59.1" "0.60.0" "0.61.0" "0.62.0" "0.62.1" {
+        "0.59.1" "0.60.0" "0.61.0" "0.62.0" "0.62.1" "0.63.1" {
   auto-version {
     github-release = "terraform-linters/tflint"
   }
@@ -211,4 +211,8 @@ sha256sums = {
   "https://github.com/terraform-linters/tflint/releases/download/v0.62.1/tflint_linux_amd64.zip": "c004ec45ade3caf87cd4089feb1d2af9f7df57b13140a36df8a63c0a8cc69f14",
   "https://github.com/terraform-linters/tflint/releases/download/v0.62.1/tflint_linux_arm64.zip": "9f3bce43f7f58f05ddcf193f0bf1f7e7a9c7a79d7f46f72dd38e97f96fcaf14c",
   "https://github.com/terraform-linters/tflint/releases/download/v0.62.1/tflint_darwin_arm64.zip": "927866fef68382138b8fed038721a03c0928ce9486e1616b18bd3dd11e7cdacb",
+  "https://github.com/terraform-linters/tflint/releases/download/v0.63.1/tflint_linux_amd64.zip": "8441a7d97df20431f19c9b9d27ff4c63e308c964e86660bc7cc0cf7bbe0725e8",
+  "https://github.com/terraform-linters/tflint/releases/download/v0.63.1/tflint_darwin_arm64.zip": "6aab157b22367dcab1635b370e98d6e791d9b40b021d4f9baef010d88f53e16b",
+  "https://github.com/terraform-linters/tflint/releases/download/v0.63.1/tflint_darwin_amd64.zip": "1a22782473e4a01f0dd23edc649bed4420655a9e3459ffc06951e698eed7ad01",
+  "https://github.com/terraform-linters/tflint/releases/download/v0.63.1/tflint_linux_arm64.zip": "6d858ca7f11858c3fe3c5e29cc746823abccb55e2d2e2da130fa7ad7ea4eecb8",
 }
