@@ -29,7 +29,7 @@ platform "linux" {
 }
 
 version "1.38.1" "1.39.0" "1.39.1" "1.39.2" "1.40.0" "1.40.1" "1.41.0" "1.42.0"
-        "1.43.5" "1.44.0" "1.45.1" "1.45.2" "1.46.0" "1.46.1" "1.46.2" "1.46.3" {
+        "1.43.5" "1.44.0" "1.45.1" "1.45.2" "1.46.0" "1.46.1" "1.46.2" "1.46.3" "1.47.2" {
   auto-version {
     github-release = "crate-ci/typos"
   }
@@ -100,4 +100,8 @@ sha256sums = {
   "https://github.com/crate-ci/typos/releases/download/v1.46.3/typos-v1.46.3-x86_64-unknown-linux-musl.tar.gz": "a8b422b8ed79de732a31a705a9899e0a29124f8dc2f0a0f54dc127154ceb3b93",
   "https://github.com/crate-ci/typos/releases/download/v1.46.3/typos-v1.46.3-x86_64-apple-darwin.tar.gz": "70da5d5753674df9411e9df417380bb085acb6dc5e140b4c4799443db4dee407",
   "https://github.com/crate-ci/typos/releases/download/v1.46.3/typos-v1.46.3-aarch64-unknown-linux-musl.tar.gz": "3cbc11f8f476e07d8cef3dbd5c898d4e800b6c8a03c292ca4e0e571265958491",
+  "https://github.com/crate-ci/typos/releases/download/v1.47.2/typos-v1.47.2-aarch64-apple-darwin.tar.gz": "23ca24a9186b5cb395b5f6c8eea8cdb02911c8980833e016454b56e90c3bd474",
+  "https://github.com/crate-ci/typos/releases/download/v1.47.2/typos-v1.47.2-aarch64-unknown-linux-musl.tar.gz": "596d5c6b9ecf34307f68bea649178c5b45a4398fe3a1fcef9598e85aa2ccb742",
+  "https://github.com/crate-ci/typos/releases/download/v1.47.2/typos-v1.47.2-x86_64-unknown-linux-musl.tar.gz": "7aef58932fc123b4cf4b40d86468e89a3297d80169051d7cfd13a235e05fc426",
+  "https://github.com/crate-ci/typos/releases/download/v1.47.2/typos-v1.47.2-x86_64-apple-darwin.tar.gz": "469a2d9fc894b0cdcec6e4fa3719b4c4638e195feee6517d4845450f8e8985c6",
 }
