@@ -40,7 +40,7 @@ version "0.1.1" "0.1.3" "0.1.4" "0.1.5" "0.1.6" "0.1.8" "0.1.10" "0.1.11" "0.1.1
         "0.9.6" "0.9.7" "0.9.8" "0.9.9" "0.9.10" "0.9.11" "0.9.12" "0.9.13" "0.9.14" "0.9.15"
         "0.9.16" "0.9.17" "0.9.18" "0.9.20" "0.9.21" "0.9.24" "0.9.25" "0.10.0" "0.10.4"
         "0.10.6" "0.10.7" "0.10.10" "0.11.1" "0.11.2" "0.11.3" "0.11.6" "0.11.7" "0.11.8"
-        "0.11.14" "0.11.15" "0.11.17" "0.11.21" "0.11.23" "0.11.24" {
+        "0.11.14" "0.11.15" "0.11.17" "0.11.21" "0.11.23" "0.11.24" "0.11.26" {
   auto-version {
     github-release = "astral-sh/uv"
   }
@@ -968,4 +968,8 @@ sha256sums = {
   "https://github.com/astral-sh/uv/releases/download/0.11.24/uv-aarch64-apple-darwin.tar.gz": "7578c6087c5cd76981732b1f5d126248101faebdf81016ba780a65ce03653cdf",
   "https://github.com/astral-sh/uv/releases/download/0.11.24/uv-x86_64-unknown-linux-gnu.tar.gz": "5ce1ad074a78f96c5c8122088bb85a12eb282195bc1453151a48762e4fc31fed",
   "https://github.com/astral-sh/uv/releases/download/0.11.24/uv-x86_64-apple-darwin.tar.gz": "8e026ec796a2760c33c832298b0910bf07fb369d00cc075761c321923ac37522",
+  "https://github.com/astral-sh/uv/releases/download/0.11.26/uv-x86_64-unknown-linux-gnu.tar.gz": "6426a73c3837e6e2483ee344cbc00f36394d179afcba6183cb77437e67db4af0",
+  "https://github.com/astral-sh/uv/releases/download/0.11.26/uv-aarch64-unknown-linux-gnu.tar.gz": "befa1a59c91e96eb601b0fd9a97c03dd666f17baba644b2b4db9c59a767e387e",
+  "https://github.com/astral-sh/uv/releases/download/0.11.26/uv-aarch64-apple-darwin.tar.gz": "8f7fbf1708399b921857bce71e1d60f0d3ccf52a30caebc1c1a2f175dce13ab6",
+  "https://github.com/astral-sh/uv/releases/download/0.11.26/uv-x86_64-apple-darwin.tar.gz": "922b460202707dd5f4ccacbadbe7f6a546cc46e82a99bf50ca99a7977a78eddd",
 }
