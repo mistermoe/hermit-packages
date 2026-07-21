@@ -4,7 +4,7 @@ source = "https://github.com/kcl-lang/cli/releases/download/v${version}/kcl-v${v
 binaries = ["kcl"]
 test = "kcl version"
 
-version "0.11.4" "0.10.10" "0.12.0" "0.12.1" "0.12.2-rc.1" "0.12.3" "0.12.4" {
+version "0.11.4" "0.10.10" "0.12.0" "0.12.1" "0.12.2-rc.1" "0.12.3" "0.12.4" "0.12.7" {
   auto-version {
     github-release = "kcl-lang/cli"
   }
@@ -39,4 +39,8 @@ sha256sums = {
   "https://github.com/kcl-lang/cli/releases/download/v0.12.4/kcl-v0.12.4-darwin-arm64.tar.gz": "b6012f85f8b14e5fa670a9d1dd8d5bf56580e8761a9cffff4146513752d4ac4a",
   "https://github.com/kcl-lang/cli/releases/download/v0.12.4/kcl-v0.12.4-linux-arm64.tar.gz": "087c2efd15c1cb4bf9fdaa7ee261d9397e7ceff9b821776fd49ba087c0500c80",
   "https://github.com/kcl-lang/cli/releases/download/v0.12.4/kcl-v0.12.4-linux-amd64.tar.gz": "01dc1d8914ed8fdfac7e8b34cc155227cf7f155ef8760f741f35b0f8529f08ca",
+  "https://github.com/kcl-lang/cli/releases/download/v0.12.7/kcl-v0.12.7-darwin-arm64.tar.gz": "f01f00f0f0ab26aa1fea1ff7dca856c9d9df064bd56e1570431e755ac6416abf",
+  "https://github.com/kcl-lang/cli/releases/download/v0.12.7/kcl-v0.12.7-darwin-amd64.tar.gz": "be348eed7e5b93136343e97416c3459d557fbe059a0a0cbe28173d058faaae15",
+  "https://github.com/kcl-lang/cli/releases/download/v0.12.7/kcl-v0.12.7-linux-arm64.tar.gz": "3dd3d1bc9f9a177a9e24d1f9c559f1c65f4cf1048dc636f9d8fa031b12807abb",
+  "https://github.com/kcl-lang/cli/releases/download/v0.12.7/kcl-v0.12.7-linux-amd64.tar.gz": "87a13210e1322327b70aa2482f3eaf195b135de6cc0126c40ec29abfeb578174",
 }
