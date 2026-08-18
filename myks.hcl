@@ -6,7 +6,7 @@ test = "myks --version"
 version "4.2.6" "4.3.0" "4.3.1" "4.3.2" "4.4.0" "4.4.1" "4.4.2" "4.5.0" "4.5.1" "4.6.0"
         "4.6.1" "4.7.0" "4.8.0" "4.8.1" "4.8.2" "4.8.3" "4.8.4" "4.9.0" "4.10.0" "4.11.0"
         "4.11.1" "4.11.2" "4.11.3" "4.11.4" "5.0.0" "5.1.0" "5.2.0" "5.3.0" "5.4.0" "5.5.0"
-        "5.5.1" "5.6.0" "5.9.1" "5.9.2" "5.10.0" "5.12.2" "5.13.0" "5.13.1" "5.13.2" {
+        "5.5.1" "5.6.0" "5.9.1" "5.9.2" "5.10.0" "5.12.2" "5.13.0" "5.13.1" "5.13.2" "5.13.3" {
   auto-version {
     github-release = "mykso/myks"
   }
@@ -169,4 +169,8 @@ sha256sums = {
   "https://github.com/mykso/myks/releases/download/v5.13.2/myks_5.13.2_darwin_amd64.tar.gz": "94b04d52b84999834567b60c351e70cca6f1f3a84f3f6827856b0a2b0b918d0f",
   "https://github.com/mykso/myks/releases/download/v5.13.2/myks_5.13.2_linux_amd64.tar.gz": "18d4c632819175f53d65e4eb710bca10d6ed6f864376a1623309dd2c4a1b8201",
   "https://github.com/mykso/myks/releases/download/v5.13.2/myks_5.13.2_darwin_arm64.tar.gz": "a31d07ecfd8d4e4c42e289150e3aec94be3112a4f557de1e847f29b049b01953",
+  "https://github.com/mykso/myks/releases/download/v5.13.3/myks_5.13.3_darwin_amd64.tar.gz": "2928c2c16b3f039809a5bf913131e308c6af5cfd7d2a50dcc71b2b0ae7994a7c",
+  "https://github.com/mykso/myks/releases/download/v5.13.3/myks_5.13.3_linux_amd64.tar.gz": "2ae5275967a469e285d7685451396dc46c5f17d8207c6452b2d790d424bf5618",
+  "https://github.com/mykso/myks/releases/download/v5.13.3/myks_5.13.3_darwin_arm64.tar.gz": "926e60513ee0f42febe20c4dc4ff1b5f005e7b23bad9c96cd7a96dd011746807",
+  "https://github.com/mykso/myks/releases/download/v5.13.3/myks_5.13.3_linux_arm64.tar.gz": "54c9f1bd911895e3c80882465687af45beb2ba835af033078d4a50fce68a68b5",
 }
