@@ -12,7 +12,7 @@ on "unpack" {
 
 version "0.17.55" "0.17.56" "0.17.57" "0.17.60" "0.17.61" "0.17.62" "0.17.63"
         "0.17.64" "0.17.66" "0.17.68" "0.17.70" "0.17.73" "0.17.74" "0.17.75" "0.17.76"
-        "0.17.79" "0.17.80" "0.17.81" "0.17.82" "0.17.83" "0.17.90" "0.17.91" {
+        "0.17.79" "0.17.80" "0.17.81" "0.17.82" "0.17.83" "0.17.90" "0.17.91" "0.17.94" {
   auto-version {
     github-release = "99designs/gqlgen"
   }
@@ -107,4 +107,8 @@ sha256sums = {
   "https://github.com/cashapp/hermit-build/releases/download/go-tools/gqlgen-v0.17.91-darwin-arm64.bz2": "e94bf2c205e4ea4eff9ea261521e3afb47a2621bf16de98a2566875ceb820aa1",
   "https://github.com/cashapp/hermit-build/releases/download/go-tools/gqlgen-v0.17.91-darwin-amd64.bz2": "d5c021baa06fa99f3b181d283763446db2e6f2d8383920d6691767df6cdb5c0e",
   "https://github.com/cashapp/hermit-build/releases/download/go-tools/gqlgen-v0.17.91-linux-amd64.bz2": "43b967688d573ea6159de8df8987287fd8d73956143c2fcac9ff3883b868e8b3",
+  "https://github.com/cashapp/hermit-build/releases/download/go-tools/gqlgen-v0.17.94-darwin-arm64.bz2": "d6d87826f4db93e04d3432af8ac00fb57839a8bf211b8236f2b0fc2cd942329c",
+  "https://github.com/cashapp/hermit-build/releases/download/go-tools/gqlgen-v0.17.94-darwin-amd64.bz2": "00868219153d626aa242cf35c3caa408668e6d384395f946a91c6bef9136415e",
+  "https://github.com/cashapp/hermit-build/releases/download/go-tools/gqlgen-v0.17.94-linux-arm64.bz2": "c0c77325c97eab9cf32657727ffba86cad8d3c4f95adc9bf63680b276806de88",
+  "https://github.com/cashapp/hermit-build/releases/download/go-tools/gqlgen-v0.17.94-linux-amd64.bz2": "f16cc81b7ab09ce1c1b4a748612356dce050732d6bbb5d1f21cddfd2e157c8f4",
 }
