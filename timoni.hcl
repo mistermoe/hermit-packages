@@ -5,7 +5,7 @@ test = "timoni --version"
 source = "https://github.com/stefanprodan/timoni/releases/download/v${version}/timoni_${version}_${os}_${arch}.tar.gz"
 
 version "0.25.1" "0.24.0" "0.23.0" "0.25.2" "0.26.0" "0.27.0" "0.30.0" "0.31.0"
-        "0.33.0" {
+        "0.33.0" "0.34.0" {
   auto-version {
     github-release = "stefanprodan/timoni"
   }
@@ -48,4 +48,8 @@ sha256sums = {
   "https://github.com/stefanprodan/timoni/releases/download/v0.33.0/timoni_0.33.0_darwin_arm64.tar.gz": "65abc8cfa3839c78df16ac3c2c376478050bcaef506318498d9155d049bc2b55",
   "https://github.com/stefanprodan/timoni/releases/download/v0.33.0/timoni_0.33.0_linux_arm64.tar.gz": "79fe26b750084f069540941990eb2eae7eb20ec5640ed92b2029002fda41be24",
   "https://github.com/stefanprodan/timoni/releases/download/v0.33.0/timoni_0.33.0_darwin_amd64.tar.gz": "b9dfec9e38009ed7fcf62ab8e2b8b2a9d8e5fd2fcce1f8df32cbef122042ac4f",
+  "https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_darwin_amd64.tar.gz": "565213cba5fcc0fe297383241edb180a872ce09dd72ddf2eeaf996dc4c8195b6",
+  "https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_linux_amd64.tar.gz": "232c5f20fb397981143ecb150bcb268e3131809c144e8a3368d8d81a0d2406f4",
+  "https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_darwin_arm64.tar.gz": "673bde5ccf8b14fcde95335c4c72d05a08341faa07aa79d912e6bfc6523a5625",
+  "https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_linux_arm64.tar.gz": "0794a36cebd5409b1bdcb81e8ecd0258f57a3dddd784426be1df869602e4fdfa",
 }
