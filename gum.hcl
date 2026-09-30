@@ -11,7 +11,7 @@ version "0.1.0" "0.10.0" "0.11.0" "0.12.0" "0.13.0" {
 }
 
 version "0.14.0" "0.14.1" "0.14.3" "0.14.4" "0.14.5" "0.15.0" "0.15.1" "0.15.2"
-        "0.16.0" "0.16.1" "0.16.2" "0.17.0" {
+        "0.16.0" "0.16.1" "0.16.2" "0.17.0" "2.0.2" {
   strip = 1
 
   auto-version {
@@ -91,4 +91,8 @@ sha256sums = {
   "https://github.com/charmbracelet/gum/releases/download/v0.17.0/gum_0.17.0_darwin_arm64.tar.gz": "e2a4b8596efa05821d8c58d0c1afbcd7ad1699ba69c689cc3ff23a4a99c8b237",
   "https://github.com/charmbracelet/gum/releases/download/v0.17.0/gum_0.17.0_linux_arm64.tar.gz": "b0b9ed95cbf7c8b7073f17b9591811f5c001e33c7cfd066ca83ce8a07c576f9c",
   "https://github.com/charmbracelet/gum/releases/download/v0.17.0/gum_0.17.0_linux_x86_64.tar.gz": "69ee169bd6387331928864e94d47ed01ef649fbfe875baed1bbf27b5377a6fdb",
+  "https://github.com/charmbracelet/gum/releases/download/v2.0.2/gum_2.0.2_darwin_x86_64.tar.gz": "5374966c7c7199ea879fcaa525ddc6d447a098d3d35496e430a9a1ef38d30485",
+  "https://github.com/charmbracelet/gum/releases/download/v2.0.2/gum_2.0.2_darwin_arm64.tar.gz": "4777a69b1170b8db23c95d5889fb32186cfda1a3ac950d339aa17e3513633890",
+  "https://github.com/charmbracelet/gum/releases/download/v2.0.2/gum_2.0.2_linux_x86_64.tar.gz": "d842e06d93dbed90af48cb8dd10698db6f22e331fc40346bb37bbc753109edc2",
+  "https://github.com/charmbracelet/gum/releases/download/v2.0.2/gum_2.0.2_linux_arm64.tar.gz": "8ebf8b54ec1e8c81f2bb58b59ff9b70998186a4d11375f0cf357b80e0ccfa1d5",
 }
