@@ -17,7 +17,7 @@ on "unpack" {
   }
 }
 
-version "2.5.3" "2.5.5" "2.5.6" "2.5.7" "2.5.9" "3.0.0" {
+version "2.5.3" "2.5.5" "2.5.6" "2.5.7" "2.5.9" "3.0.0" "4.1.0" {
   auto-version {
     github-release = "tomasbjerre/git-changelog-command-line"
   }
