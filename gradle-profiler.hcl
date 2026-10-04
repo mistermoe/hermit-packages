@@ -5,7 +5,8 @@ strip = 1
 binaries = ["bin/gradle-profiler"]
 repository = "https://github.com/gradle/gradle-profiler"
 
-version "0.20.0" "0.21.0" "0.22.0-alpha-1" "0.22.0" "0.23.0" "0.24.0" "0.25.2" {
+version "0.20.0" "0.21.0" "0.22.0-alpha-1" "0.22.0" "0.23.0" "0.24.0" "0.25.2"
+        "0.26.0" {
   auto-version {
     github-release = "gradle/gradle-profiler"
   }
