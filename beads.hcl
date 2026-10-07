@@ -17,7 +17,7 @@ version "0.17.7" "0.19.0" "0.20.1" "0.21.2" "0.21.5" "0.21.7" "0.21.9" "0.25.1"
         "0.26.0" "0.26.1" "0.27.0" "0.27.2" "0.28.0" "0.29.0" "0.30.0" "0.30.2" "0.30.3"
         "0.30.6" "0.32.0" "0.33.2" "0.34.0" "0.35.0" "0.36.0" "0.37.0" "0.38.0" "0.40.0"
         "0.41.0" "0.42.0" "0.43.0" "0.44.0" "0.46.0" "0.47.1" "0.49.3" "0.56.1" "0.61.0"
-        "0.63.3" "1.0.0" "1.0.2" "1.0.3" "1.0.4" "1.1.0" "1.2.2" {
+        "0.63.3" "1.0.0" "1.0.2" "1.0.3" "1.0.4" "1.1.0" "1.2.2" "1.3.1" {
   source = "https://github.com/steveyegge/beads/releases/download/v${version}/beads_${version}_${os}_${arch}.tar.gz"
 
   auto-version {
@@ -216,4 +216,8 @@ sha256sums = {
   "https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_darwin_arm64.tar.gz": "2aa1245c666419900d2d6993a05049e92c40e0e601d19579cca5b07a7bb8021d",
   "https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_linux_arm64.tar.gz": "501f38a1070d4b9b3b6261a86a3c92c4a52366869021560430a4bb0036afd83a",
   "https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_linux_amd64.tar.gz": "8140098a51d3b81d5548d1c5e6db1a2d9930e5d141efe2a4bff7d079c4d321e8",
+  "https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_linux_arm64.tar.gz": "c3b32c71a6c0cd6358a12c28272b17e6818db991da192f87df52339c222e423a",
+  "https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_darwin_amd64.tar.gz": "13bddb0b4774503d97d57e94204acc2b7c6b775fecc22fa38bc1b831718e234d",
+  "https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_darwin_arm64.tar.gz": "508ba807996e2b9c992c538a6f405f2fc7d2e16cf8b4e5b0d1bf9fe860367007",
+  "https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_linux_amd64.tar.gz": "3219443a9734b89b93fb16ee8d65844759fa1b3cd3cf139c606b7353cfb0715c",
 }
