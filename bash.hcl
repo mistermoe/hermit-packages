@@ -15,7 +15,7 @@ version "5.1" {
   source = "https://github.com/cashapp/hermit-build/releases/download/bash/bash-${version}-${os}-${arch}.xz"
 }
 
-version "5.2.15" {
+version "5.2.15" "5.1" {
   strip = 1
   binaries = ["bin/bash"]
 
@@ -33,4 +33,5 @@ sha256sums = {
   "https://github.com/cashapp/hermit-build/releases/download/bash-5.2.15/bash-5.2.15-linux-amd64.tar.xz": "7325facae89d2ce25d49b96248ea644a2dd404cac1ed94ded1227054c70d4887",
   "https://github.com/cashapp/hermit-build/releases/download/bash-5.2.15/bash-5.2.15-darwin-amd64.tar.xz": "4b209f8b6d30f72656b00d36e1fe0f69358fb5dc7df381ca6db7ebfc83eae237",
   "https://github.com/cashapp/hermit-build/releases/download/bash-5.2.15/bash-5.2.15-darwin-arm64.tar.xz": "2e67e4e281d1c1daac90dc11864ac0253b93d50b2b3b0468cc6fb85eae73619d",
+  "https://github.com/cashapp/hermit-build/releases/download/bash-5.2.15/bash-5.2.15-linux-arm64.tar.xz": "e53bf4aabb9b3b671728f0d6635cefb35b9159115921a6378922ffa29de104eb",
 }
