@@ -20,7 +20,7 @@ version "10.0.0" "9.6.1" "11.0.0" "11.0.2" "11.1.0" "11.1.1" "11.2.0" "11.3.0"
         "13.2.0" "13.2.1" "13.3.0" "13.4.0" "13.5.0" "13.6.0" "14.0.1" "14.0.3" "14.8.0"
         "14.13.1" "14.13.4" "14.14.1" "14.16.0" "14.17.0" "14.18.0" "14.20.2" "15.2.0" "15.6.3"
         "15.8.0" "15.10.1" "16.2.0" "16.7.0" "16.8.0" "16.9.0" "16.10.0" "16.12.0" "17.0.0"
-        "17.2.1" {
+        "17.2.1" "17.3.2" {
   auto-version {
     github-release = "sourcemeta/jsonschema"
   }
@@ -279,4 +279,8 @@ sha256sums = {
   "https://github.com/sourcemeta/jsonschema/releases/download/v17.2.1/jsonschema-17.2.1-darwin-arm64.zip": "8e864f898a6479f2ae50f9f0030e0d5fbc05e67ebbeefa1b29afb72f163f542f",
   "https://github.com/sourcemeta/jsonschema/releases/download/v17.2.1/jsonschema-17.2.1-linux-x86_64.zip": "9ffee3cfbe0fe1343d9d36bcce9e6036ec4d73e4b29f656c039fca6118da2f35",
   "https://github.com/sourcemeta/jsonschema/releases/download/v17.2.1/jsonschema-17.2.1-linux-arm64.zip": "76025c6ab41be85361838152b31a2f23bfb87ee20babfbeec4045fb81e8c6f78",
+  "https://github.com/sourcemeta/jsonschema/releases/download/v17.3.2/jsonschema-17.3.2-darwin-x86_64.zip": "b5103187127cfd9e42b81ea6283f8d57367aec0bf3d9fcd821d651a8eabb807d",
+  "https://github.com/sourcemeta/jsonschema/releases/download/v17.3.2/jsonschema-17.3.2-linux-x86_64.zip": "ff660a20e5c9273742d5d73de9da2cffbdb91208293f90a8c3ea64a09ad7ed69",
+  "https://github.com/sourcemeta/jsonschema/releases/download/v17.3.2/jsonschema-17.3.2-linux-arm64.zip": "f8ede4a0b7e26e024d791c6c1af7e8d3d1c444a88dfc901cfb9d3f04825ec643",
+  "https://github.com/sourcemeta/jsonschema/releases/download/v17.3.2/jsonschema-17.3.2-darwin-arm64.zip": "c4049ea94b9032086e2ae56bbf7c5583f960f08584c2285a5a3f4025bcad32fc",
 }
