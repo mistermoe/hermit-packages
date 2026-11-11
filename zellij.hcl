@@ -12,7 +12,7 @@ darwin {
   sha256-source = "https://github.com/zellij-org/zellij/releases/download/v${version}/zellij-${xarch}-apple-darwin.sha256sum"
 }
 
-version "0.43.1" "0.44.0" "0.44.1" "0.44.2" "0.44.3" "0.45.1" {
+version "0.43.1" "0.44.0" "0.44.1" "0.44.2" "0.44.3" "0.45.1" "0.46.0" {
   auto-version {
     github-release = "zellij-org/zellij"
   }
@@ -43,4 +43,8 @@ sha256sums = {
   "https://github.com/zellij-org/zellij/releases/download/v0.45.1/zellij-no-web-aarch64-unknown-linux-musl.tar.gz": "2a2c0621e6f3b11ecbb05d66939a48000a2508604620aa20727a5fd61c49f451",
   "https://github.com/zellij-org/zellij/releases/download/v0.45.1/zellij-no-web-x86_64-unknown-linux-musl.tar.gz": "d006c521dcb475a6005d741e9dd7c5758e5a23b28dd60a5c10cebfa4876319dd",
   "https://github.com/zellij-org/zellij/releases/download/v0.45.1/zellij-x86_64-apple-darwin.tar.gz": "e3afe876c04cb83ca3f68cb939113ec7b1abe5fb46c13727c102a64afcb4b7d4",
+  "https://github.com/zellij-org/zellij/releases/download/v0.46.0/zellij-aarch64-apple-darwin.tar.gz": "27be5b0489377217aa47633253c0e7a162fcebced02351f36e97bf7dff29acdc",
+  "https://github.com/zellij-org/zellij/releases/download/v0.46.0/zellij-no-web-x86_64-unknown-linux-musl.tar.gz": "afb6bfb5f9fdc3d9e9d094ce21866bc99d37073a5fbe75bb612e21fc9b96033d",
+  "https://github.com/zellij-org/zellij/releases/download/v0.46.0/zellij-x86_64-apple-darwin.tar.gz": "60d2d5ff0c20fd0b0d03c76209cf3b55e224518d01797af62ae8469a1a458da3",
+  "https://github.com/zellij-org/zellij/releases/download/v0.46.0/zellij-no-web-aarch64-unknown-linux-musl.tar.gz": "09cc9f60eb122987c10221fa559aa00c441333a23ba53d727c807f36c5222147",
 }
