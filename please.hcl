@@ -20,7 +20,7 @@ version "16.18.0" "16.19.0" "16.20.0" "16.20.1" "16.20.2" "16.20.3" "16.20.4"
         "17.13.1" "17.14.0" "17.15.0" "17.15.1" "17.16.0" "17.17.0" "17.18.0" "17.19.0"
         "17.19.1" "17.20.0" "17.21.0" "17.22.0" "17.23.0" "17.24.0" "17.24.1" "17.25.0"
         "17.25.1" "17.27.0" "17.28.0" "17.29.1" "17.30.0" "17.31.2" "17.32.0" "17.33.0"
-        "17.34.0" {
+        "17.34.0" "17.35.1" {
   auto-version {
     github-release = "thought-machine/please"
   }
@@ -346,4 +346,8 @@ sha256sums = {
   "https://github.com/thought-machine/please/releases/download/v17.34.0/please_17.34.0_darwin_arm64": "f22d9ea4a5c5a62e4ffbf880732812e5f28516e76656e556dbce9cbac74bdc7b",
   "https://github.com/thought-machine/please/releases/download/v17.34.0/please_17.34.0_linux_arm64": "a88a6f5e253ac5b89e2ebe716340a9df71be5dcb9669ff2814ce08878ecdc1ae",
   "https://github.com/thought-machine/please/releases/download/v17.34.0/please_17.34.0_linux_amd64": "cd83f0adae2db8eabf294860eba4c09cc5761af0a80cd6e6774f7df93bacf170",
+  "https://github.com/thought-machine/please/releases/download/v17.35.1/please_17.35.1_linux_arm64": "ae173b9868f84d9911021742b29118ef6ea4096ef788ff8775c62c7f7ac22d90",
+  "https://github.com/thought-machine/please/releases/download/v17.35.1/please_17.35.1_darwin_amd64": "b590dcac7f530b2f39f7858144ae7148fb466251353d480010d9c40dc023d2b8",
+  "https://github.com/thought-machine/please/releases/download/v17.35.1/please_17.35.1_darwin_arm64": "1241b0b2e447e81813d26ecfe8f9b8bfec5e5669f415652d889cfbf1db135fea",
+  "https://github.com/thought-machine/please/releases/download/v17.35.1/please_17.35.1_linux_amd64": "4e506cf6f04bfd448fbb6b5fd103503478b4b5dec93ffcee0d03b2f0099eb64f",
 }
