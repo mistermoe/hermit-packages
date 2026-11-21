@@ -24,7 +24,7 @@ linux {
   }
 }
 
-version "1.11.0" "1.12.0" "1.13.0" "1.14.0" "1.14.1" {
+version "1.11.0" "1.12.0" "1.13.0" "1.14.0" "1.14.1" "1.14.2" {
   auto-version {
     github-release = "vi/websocat"
     version-pattern = "v(.*)"
@@ -42,4 +42,6 @@ sha256sums = {
   "https://github.com/vi/websocat/releases/download/v1.14.0/websocat.x86_64-apple-darwin": "ef7d6e913dd38e2ae100cd12de6e0d93a7ed4e3155f839ae7be2d6bce774bc1d",
   "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.x86_64-unknown-linux-musl": "66f8dd3a0394761556339117f8bb5123bddefd44e087af2a72ec22b0bd08d514",
   "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.x86_64-apple-darwin": "45521ba59a6604785543406bf8e398ce7d565d54c09657176afba795dd28f191",
+  "https://github.com/vi/websocat/releases/download/v1.14.2/websocat.x86_64-unknown-linux-musl": "cd26f92cb507f620e2d54fe6e126f4dc191f3eee90f2b53bccf07eac0645ec84",
+  "https://github.com/vi/websocat/releases/download/v1.14.2/websocat.x86_64-apple-darwin": "220b2706d32b1b87d4aa5dc2f50741032874754658aaaac914738c4aad10be9c",
 }
