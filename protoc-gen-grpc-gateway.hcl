@@ -16,7 +16,7 @@ version "1.16.0" "2.7.3" "2.8.0" "2.9.0" "2.10.0" "2.10.1" "2.10.2" "2.10.3" "2.
         "2.16.0" "2.16.2" "2.17.0" "2.17.1" "2.18.0" "2.18.1" "2.19.0" "2.19.1" "2.20.0"
         "2.21.0" "2.22.0" "2.23.0" "2.24.0" "2.25.1" "2.26.0" "2.26.1" "2.26.2" "2.26.3"
         "2.27.0" "2.27.1" "2.27.2" "2.27.3" "2.27.4" "2.27.5" "2.27.7" "2.27.8" "2.28.0"
-        "2.29.0" "2.30.0" "2.31.0" "2.32.0" "2.33.0" {
+        "2.29.0" "2.30.0" "2.31.0" "2.32.0" "2.33.0" "2.34.0" {
   auto-version {
     github-release = "grpc-ecosystem/grpc-gateway"
   }
@@ -123,4 +123,6 @@ sha256sums = {
   "https://github.com/grpc-ecosystem/grpc-gateway/releases/download/v2.32.0/protoc-gen-grpc-gateway-v2.32.0-darwin-x86_64": "3a77961c36f687bd5d53336f9eaf4bd2d13c8213414be66973a2592d50f6df8b",
   "https://github.com/grpc-ecosystem/grpc-gateway/releases/download/v2.33.0/protoc-gen-grpc-gateway-v2.33.0-linux-x86_64": "82b7858911a3d41994e33fd99d360f5bd13b808f9324dc52b9cbc4d517c13ec5",
   "https://github.com/grpc-ecosystem/grpc-gateway/releases/download/v2.33.0/protoc-gen-grpc-gateway-v2.33.0-darwin-x86_64": "183a4a6021bbf3221f6edab01079b34c87865b5af0f2484f7bb4f82b402b8e43",
+  "https://github.com/grpc-ecosystem/grpc-gateway/releases/download/v2.34.0/protoc-gen-grpc-gateway-v2.34.0-linux-x86_64": "d01feeb66ec5ba2047d486902feee391290aba78ca3aacb9c68599bd4668146d",
+  "https://github.com/grpc-ecosystem/grpc-gateway/releases/download/v2.34.0/protoc-gen-grpc-gateway-v2.34.0-darwin-x86_64": "1141f216ccf4afe12e565a308af18bb92aa4853962bb986225894c134aa6bd0d",
 }
