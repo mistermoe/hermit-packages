@@ -3,7 +3,7 @@ binaries = ["go-arch-lint"]
 source = "https://github.com/fe3dback/go-arch-lint/releases/download/v${version}/go-arch-lint_${version}_${os}_${arch}.tar.gz"
 
 version "1.11.4" "1.11.5" "1.11.6" "1.11.7" "1.11.9" "1.12.0" "1.13.0" "1.14.0"
-        "1.15.0" "1.16.0" "1.17.0" "1.18.0" "1.19.0" {
+        "1.15.0" "1.16.0" "1.17.0" "1.18.0" "1.19.0" "1.19.3" {
   auto-version {
     github-release = "fe3dback/go-arch-lint"
   }
@@ -62,4 +62,8 @@ sha256sums = {
   "https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.0/go-arch-lint_1.19.0_darwin_amd64.tar.gz": "09b641e03b5314bfee70e98fa9caf91986a650d28b834713871c8d25867a6285",
   "https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.0/go-arch-lint_1.19.0_darwin_arm64.tar.gz": "63a64239de9acdbd0ea3f0bf7b94705cc8a441b02b37c01147d3027e8f78611e",
   "https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.0/go-arch-lint_1.19.0_linux_arm64.tar.gz": "50174a73916c767eda2b27cf18a4db80cd7f102eeb4c514a705239279fd2754b",
+  "https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.3/go-arch-lint_1.19.3_linux_arm64.tar.gz": "8addd2e70e254520e164ddf63cd690bdd40bb57f797199ceac684ffe1ca4e72a",
+  "https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.3/go-arch-lint_1.19.3_linux_amd64.tar.gz": "fe51282173046a0f2d6f97a5d54505bef7e85fbb2090d411e74cbc8a31182db5",
+  "https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.3/go-arch-lint_1.19.3_darwin_amd64.tar.gz": "b30d8b1542016eba7b5c11f4499e7122a585c937f92df91320fb3c25288fb481",
+  "https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.3/go-arch-lint_1.19.3_darwin_arm64.tar.gz": "0d70bf4b06b06ff73a9f54a528890b4f006dc1c79365e2511ed554ea3cbdbff8",
 }
